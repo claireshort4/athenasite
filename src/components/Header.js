@@ -9,7 +9,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 
-const pages = ['Research', 'About us', 'Blog'];
+const pages = ['Research', 'About us'];
 
 
 function Header() {
