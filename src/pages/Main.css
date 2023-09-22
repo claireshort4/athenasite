@@ -1,0 +1,31 @@
+* {
+  font-family: "Lora", serif;
+  color: #2c2c2c
+}
+
+.logo {
+    font-family: "Lora Bold", serif;
+    font-weight: bold;
+    flex-grow: 1;
+}
+
+.logo, h2 {
+    color: #267896;
+}
+
+h1 {
+  color: #267896;
+  font-size: 5em;
+  font-family: "Lora Bold", serif;
+}
+p {
+  font-size: 1.3em;
+  max-width: 50em;
+}
+
+body{
+    background-color: #f7f7f7;
+    font-size: 16px;
+}
+
+

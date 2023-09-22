@@ -8,8 +8,9 @@ import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
+import { Link } from "gatsby"
 
-const pages = ['Research', 'About us'];
+const pages = ['research', 'about'];
 
 
 function Header() {
@@ -27,7 +28,9 @@ function Header() {
   return (
     <AppBar position="static" elevation={0}>
       <Toolbar disableGutters>
-          <div style={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>Cadenza Labs</div>
+          <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
+              Cadenza Labs
+          </div>
 
           <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
             <IconButton
@@ -59,21 +62,25 @@ function Header() {
               }}
             >
               {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography textAlign="center">{page}</Typography>
-                </MenuItem>
+                  <Link to={page}>
+                    <MenuItem key={page} onClick={handleCloseNavMenu}>
+                      <Typography textAlign="center">{page}</Typography>
+                    </MenuItem>
+                  </Link>
               ))}
             </Menu>
           </Box>
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
-              <Button
-                key={page}
-                onClick={handleCloseNavMenu}
-                sx={{ my: 2, color: 'white', display: 'block' }}
-              >
-                {page}
-              </Button>
+              <Link to={"/" + page.toLowerCase()}>
+                  <Button
+                    key={page}
+                    onClick={handleCloseNavMenu}
+                    sx={{ my: 2, color: 'white', display: 'block' }}
+                  >
+                    {page}
+                  </Button>
+              </Link>
             ))}
           </Box>
 

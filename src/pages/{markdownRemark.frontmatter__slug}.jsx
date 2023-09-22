@@ -3,16 +3,25 @@ import { graphql } from "gatsby"
 import {Container, createTheme} from "@mui/material";
 import Header from "../components/Header";
 import {ThemeProvider} from "@mui/material/styles";
+import "./Main.css"
 
 const theme = createTheme({
   components: {
     MuiToolbar: {
       styleOverrides: {
         root: {
-          backgroundColor: "green !important"
-        }
+          backgroundColor: "#f7f7f7 !important",
+        },
+
       },
     },
+    MuiButton: {
+     styleOverrides: {
+         text: {
+             color: "#267896 !important",
+         }
+     }
+    }
   },
 });
 
@@ -24,11 +33,11 @@ export default function PageTemplate({
   return (
     <div>
       <ThemeProvider theme={theme}>
-          <Container maxWidth={"lg"}>
+          <Container maxWidth={"xl"}>
               <Header />
           </Container>
       </ThemeProvider>
-      <Container>
+      <Container maxWidth={"xl"}>
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
         <div

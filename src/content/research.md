@@ -29,8 +29,6 @@ To study this, we want to combine conceptual work that aims to clarify these que
 
 ## Research Output Summary
 
-
-
 [RFC] Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision". - LessWrong 
 Our initial post, with ideas of how to expand the paper
 GitHub - EleutherAI/elk: Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022) 
