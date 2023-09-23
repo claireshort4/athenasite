@@ -10,7 +10,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import { Link } from "gatsby"
 
-const pages = ['research', 'about'];
+const pages = ['Research', 'About'];
 
 
 function Header() {
@@ -28,9 +28,11 @@ function Header() {
   return (
     <AppBar position="static" elevation={0}>
       <Toolbar disableGutters>
-          <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
-              Cadenza Labs
-          </div>
+              <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
+                  <Link to="/">
+                      Cadenza Labs
+                  </Link>
+              </div>
 
           <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
             <IconButton
