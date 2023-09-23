@@ -64,7 +64,7 @@ function Header() {
               }}
             >
               {pages.map((page) => (
-                  <Link to={page}>
+                <Link to={"/" + page.toLowerCase()}>
                     <MenuItem key={page} onClick={handleCloseNavMenu}>
                       <Typography textAlign="center">{page}</Typography>
                     </MenuItem>
