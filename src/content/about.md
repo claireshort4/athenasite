@@ -4,7 +4,7 @@ title: "About us"
 ---
 
 ## Kaarel Hänni (Lead Research Scientist)
-Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on the interpretability agenda outlined in “Searching for a model's concepts by their shape – a theoretical framework" as a theorist in Notodai Research, a research team formed during MATS with Georgios Kaklamanos, Kay Kozaronek, and Walter Laurito. Kaarel has undergraduate degrees in mathematics and, in linguistics & philosophy from MIT and is currently on leave from graduate school in mathematics at Caltech.
+Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on the interpretability agenda outlined in “Searching for a model's concepts by their shape – a theoretical framework" as a theorist in Cadenza Labs, a research team formed during MATS with Georgios Kaklamanos, Kay Kozaronek, and Walter Laurito. Kaarel has undergraduate degrees in mathematics and, in linguistics & philosophy from MIT and is currently on leave from graduate school in mathematics at Caltech.
 
 ## Walter Laurito (Team Lead & Research Engineer)
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
@@ -27,4 +27,4 @@ In his spare time, Jonathan likes building mechanical keyboards, doing weekend p
 ## Jake Mendel (Research Scientist)
 [LinkedIn](https://www.linkedin.com/in/jake-m-b05289126/)
 
-Jake got into Alignment in April 2023, on an OpenPhil grant, and is currently a research assistant at David Krueger's lab where he is trying to understand the inductive biases of SGD, and attempting to build more robust benchmarks for capability unlearning. In his work as a research scientist with Notodai, he is working on the 'Specific Directions Within the Search for Features' agenda (github repo), and is beginning to think about how model factorisation can shed light on the structure of cognition inside LMs. Jake has an undergraduate degree in Physics and a masters in Theoretical Physics from Cambridge. He started a graduate medical degree at Oxford before dropping out to focus on AI Safety
+Jake got into Alignment in April 2023, on an OpenPhil grant, and is currently a research assistant at David Krueger's lab where he is trying to understand the inductive biases of SGD, and attempting to build more robust benchmarks for capability unlearning. In his work as a research scientist with Cadenza Labs, he is working on the 'Specific Directions Within the Search for Features' agenda (github repo), and is beginning to think about how model factorisation can shed light on the structure of cognition inside LMs. Jake has an undergraduate degree in Physics and a masters in Theoretical Physics from Cambridge. He started a graduate medical degree at Oxford before dropping out to focus on AI Safety
