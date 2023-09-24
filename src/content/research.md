@@ -6,6 +6,16 @@ title: "Research"
 The goal of our group is to do research which contributes to solving AI alignment. Broadly, we of course aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability (though we make an effort to keep our eyes on the ball by also regularly thinking about MIRI-style agent foundations).
 Interpretability is broad; our research direction is less broad. Within interpretability, we have a few goals.
 
+## Research Output
+
+- [Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision"](https://arxiv.org/abs/2212.03827) LessWrong  Our initial post, with ideas of how to expand the paper
+- [GitHub - EleutherAI/elk](https://github.com/EleutherAI/elk): Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022). We are main contributors of the elk library. This is the Open Source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
+- [Searching for a model's concepts by their shape – a theoretical framework](https://www.lesswrong.com/posts/Go5ELsHAyw7QrArQ6/searching-for-a-model-s-concepts-by-their-shape-a) - LessWrong. Our suggested theoretical framework, to expand the results to concepts beyond “Truth”
+- [Safe and Trustworthy AI workshop paper submission](https://www.overleaf.com/read/wyynydkkmrkv) Paper Draft in collaboration with other researchers: . “Variance-Invariance-Negative Covariance (VINC), a novel method for eliciting knowledge directly from the activations of language models in a purely unsupervised way” 
+- [Research YouTube channel](https://www.youtube.com/watch?v=IGdk0JsvIkY) 
+
+## Research Agenda
+
 ## 1. Specific directions within the search for features
 First, we want to understand the natural units in terms of which a neural net is performing its computation: we want to develop methods to determine the concepts in terms of which a particular neural net thinks. More specifically, we would like to be able to look at the activations of a neural net on a particular input and tell which concepts 'are active' within the net. To this end, we would like to both develop a conceptual framework for even making sense of the above and run experiments to resolve uncertainties about fundamentals of that conceptual framework. Here are three such key uncertainties that we aim to address in our research:
 Do neural networks have linear representations? In particular, do the concepts in terms of which a neural net thinks correspond to vectors (called features) in activation space, such that the activation on a particular input is a linear combination of the features corresponding to concepts that are active? Or is it just that all the representations we have identified thus far seem linear because we only had tools to find ones which seem linear? (Can we even in principle come up with concrete examples of neural nets with nonlinear representations?)
@@ -27,17 +37,3 @@ Are there examples of the 'same plan' being used to predict multiple tokens in s
 To study this, we want to combine conceptual work that aims to clarify these questions with accompanying experiments: both in model psychology, including model developmental psychology (that is, behavioral experiments, including those that incorporate certain training/fine-tuning regimes), as well as in model neuroscience (that is, interpretability experiments, for instance involving probing and searching for particular circuits).
 
 
-## Research Output Summary
-
-[RFC] Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision". - LessWrong 
-Our initial post, with ideas of how to expand the paper
-GitHub - EleutherAI/elk: Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022) 
-We are main contributors of the elk library 
-This is the Open Source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
-Searching for a model's concepts by their shape – a theoretical framework - LessWrong
-Our suggested theoretical framework, to expand the results to concepts beyond “Truth”
-Safe and Trustworthy AI workshop paper submission: decomposing_activations_into_features (1).pdf
-Paper Draft in collaboration with other researchers: https://www.overleaf.com/read/wyynydkkmrkv
-“Variance-Invariance-Negative Covariance (VINC), a novel method for eliciting knowledge directly from the activations of language models in a purely unsupervised way” 
-NotodAI Research YouTube channel 
-Overview video: https://www.youtube.com/watch?v=IGdk0JsvIkY
