@@ -8,7 +8,7 @@ Interpretability is broad; our research direction is less broad. Within interpre
 
 ## Research Output
 
-- [Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision"](https://arxiv.org/abs/2212.03827) LessWrong  Our initial post, with ideas of how to expand the paper
+- [Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision"](https://www.lesswrong.com/posts/bFwigCDMC5ishLz7X/rfc-possible-ways-to-expand-on-discovering-latent-knowledge) LessWrong  Our initial post, with ideas of how to expand the paper
 - [GitHub - EleutherAI/elk](https://github.com/EleutherAI/elk): Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022). We are main contributors of the elk library. This is the Open Source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
 - [Searching for a model's concepts by their shape – a theoretical framework](https://www.lesswrong.com/posts/Go5ELsHAyw7QrArQ6/searching-for-a-model-s-concepts-by-their-shape-a) - LessWrong. Our suggested theoretical framework, to expand the results to concepts beyond “Truth”
 - [Safe and Trustworthy AI workshop paper submission](https://www.overleaf.com/read/wyynydkkmrkv) Paper Draft in collaboration with other researchers: . “Variance-Invariance-Negative Covariance (VINC), a novel method for eliciting knowledge directly from the activations of language models in a purely unsupervised way” 
