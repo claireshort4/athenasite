@@ -10,11 +10,11 @@ Walter is a SERI MATS alumni under the mentorship of John Wentworth and an ML Ph
 With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. 
 Before SERI MATS and starting his PhD, Walter was working as software engineer for a couple of years after graduating in CS. More information about the current agenda of Walter’s team can be found on [Lesswrong](https://www.lesswrong.com/users/walt-1).
 
-## Georgios Kaklamanos (Operations)
-Georgios was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on interpretability in a team with Kaarel Hänni, Kay Kozaronek, and Walter Laurito, where he primarily works on Science Communication. The team's work resulted in an open-source repository in collaboration with ElutherAI and 2 posts on LessWrong outlining ideas for future work and a theoretical framework. Outside alignment, his current focus is Improvisation, specifically in Improv Theater and Rhythm Tap, intending to figure out how these concepts can be transferred and improv everyday life.
-
 ## Kaarel Hänni (Lead Research Scientist)
 Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on the interpretability agenda outlined in “Searching for a model's concepts by their shape – a theoretical framework" as a theorist in Notodai Research, a research team formed during MATS with Georgios Kaklamanos, Kay Kozaronek, and Walter Laurito. Kaarel has undergraduate degrees in mathematics and, in linguistics & philosophy from MIT and is currently on leave from graduate school in mathematics at Caltech.
+
+## Georgios Kaklamanos (Operations)
+Georgios was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on interpretability in a team with Kaarel Hänni, Kay Kozaronek, and Walter Laurito, where he primarily works on Science Communication. The team's work resulted in an open-source repository in collaboration with ElutherAI and 2 posts on LessWrong outlining ideas for future work and a theoretical framework. Outside alignment, his current focus is Improvisation, specifically in Improv Theater and Rhythm Tap, intending to figure out how these concepts can be transferred and improv everyday life.
 
 ## Jonathan Ng (Research Engineer)
 [LinkedIn](https://www.linkedin.com/in/jonathan-ng-7061a3162/)
