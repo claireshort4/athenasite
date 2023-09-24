@@ -11,7 +11,7 @@ Interpretability is broad; our research direction is less broad. Within interpre
 - [Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision"](https://www.lesswrong.com/posts/bFwigCDMC5ishLz7X/rfc-possible-ways-to-expand-on-discovering-latent-knowledge):  Our initial post, with ideas of how to expand the paper
 - [GitHub - EleutherAI/elk](https://github.com/EleutherAI/elk): Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022). We are main contributors of the elk library. This is the Open Source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
 - [Searching for a model's concepts by their shape – a theoretical framework](https://www.lesswrong.com/posts/Go5ELsHAyw7QrArQ6/searching-for-a-model-s-concepts-by-their-shape-a): Our suggested theoretical framework, to expand the results to concepts beyond “Truth”
-- [Decomposing Activations into features]([https://www.overleaf.com/read/wyynydkkmrkv](https://drive.google.com/file/d/1jD0VpCF1fLXyNwMMM3skbYAgoR2qQOu5/view?usp=sharing)  
+- [Decomposing Activations into features]([https://www.overleaf.com/read/wyynydkkmrkv](https://drive.google.com/file/d/1jD0VpCF1fLXyNwMMM3skbYAgoR2qQOu5/).
 - [Research YouTube channel](https://www.youtube.com/watch?v=IGdk0JsvIkY) 
 
 ## Research Agenda
