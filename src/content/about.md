@@ -6,7 +6,7 @@ title: "About us"
 ## Kaarel Hänni (Lead Research Scientist)
 Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on the interpretability agenda outlined in “Searching for a model's concepts by their shape – a theoretical framework" as a theorist in Cadenza Labs, a research team formed during MATS with Georgios Kaklamanos, Kay Kozaronek, and Walter Laurito. Kaarel has undergraduate degrees in mathematics and, in linguistics & philosophy from MIT and is currently on leave from graduate school in mathematics at Caltech.
 
-## Walter Laurito (Team Lead & Research Engineer)
+## Walter Laurito (CEO & Research Engineer)
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
 Walter is a SERI MATS alumni under the mentorship of John Wentworth and an ML PhD student (mostly on pause / minimal effort right now). He takes on the role as a team lead and research engineer. 
