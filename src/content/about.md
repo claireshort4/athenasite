@@ -9,7 +9,7 @@ Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth
 ## Walter Laurito (CEO & Research Engineer)
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
-Walter is a SERI MATS alumni under the mentorship of John Wentworth and an ML PhD student (mostly on pause / minimal effort right now). He takes on the role as a team lead and research engineer. 
+Walter is a SERI MATS alumni under the mentorship of John Wentworth and an ML PhD student (mostly on pause / minimal effort right now). He takes on the role as CEO and research engineer. 
 With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. 
 Before SERI MATS and starting his PhD, Walter was working as software engineer for a couple of years after graduating in CS. 
 
