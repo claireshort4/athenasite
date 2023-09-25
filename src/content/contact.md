@@ -5,4 +5,4 @@ title: "Contact"
 
 You can contact us at info@cadenzalabs.org
 
-We are happy to receive emails about possible collaborators, mentees, mentors and funders.
+We are happy to receive emails from possible collaborators, mentees, mentors and funders.
