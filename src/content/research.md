@@ -3,8 +3,7 @@ slug: "/research"
 title: "Research"
 ---
 
-The goal of our group is to do research which contributes to solving AI alignment. Broadly, we of course aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability (though we make an effort to keep our eyes on the ball by also regularly thinking about MIRI-style agent foundations).
-Interpretability is broad; our research direction is less broad. Within interpretability, we have a few goals.
+The goal of our group is to do research which contributes to solving AI alignment. Broadly, we of course aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability (though we make an effort to keep our eyes on the ball by also regularly thinking about agent foundations). Interpretability is broad; our research direction is less broad. Our specific goals within interpretability are described in the [Research Agenda](#research-agenda) section below.
 
 ## Research Output
 
