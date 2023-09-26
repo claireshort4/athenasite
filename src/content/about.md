@@ -9,7 +9,7 @@ Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth
 ## Walter Laurito (CEO & Research Engineer)
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
-Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. At Cadenza Labs, he splits his time between being a CEO and research engineering. With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. Walter is also a PhD student in machine learning (mostly on pause / minimal effort right now). Before starting his PhD, Walter was working as software engineer for a couple of years after graduating in CS. 
+Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. At Cadenza Labs, he splits his time between being a CEO and research engineering. With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. Before starting his PhD in ML (mostly on pause / minimal effort right now), Walter was working as software engineer for a couple of years after graduating in CS. 
 
 ## Georgios Kaklamanos (Operations)
 Georgios was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. At Cadenza Labs, he primarily works on operations. Outside alignment, his current focus is improvisation, specifically in improv theater and rhythm tap, intending to figure out how these concepts can be transferred to everyday life.
