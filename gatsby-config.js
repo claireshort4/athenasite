@@ -50,23 +50,6 @@ module.exports = {
         ],
       },
   },
-    {
-    resolve: `gatsby-omni-font-loader`,
-    options: {
-      enableListener: true,
-      preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
-      web: [
-        {
-          name: `Lora`,
-          file: `https://fonts.googleapis.com/css2?family=Lora&display=swap`,
-        },
-        {
-          name: `Lora Bold`,
-          file: `https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap`,
-        }
-      ],
-    },
-  },
-      "gatsby-remark-responsive-iframe", //Optional: Must be loaded after gatsby-remark-embed-video
+  "gatsby-remark-responsive-iframe", //Optional: Must be loaded after gatsby-remark-embed-video
   ]
 };

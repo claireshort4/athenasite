@@ -1,6 +1,8 @@
 ---
 slug: "/"
-title: "Cadenza Labs"
+title: "AI Alignment Mentorship Program for Women"
 ---
 
-The goal of our group is to do research which contributes to solving AI alignment. Broadly, we of course aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue are in interpretability. More about our research agenda can be found [here](/research).
+A 2-month hybrid mentorship program for women looking to strengthen their research skills and network in technical AI safety research 
+[here](/about).
+

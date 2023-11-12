@@ -1,52 +1,68 @@
 * {
-  font-family: "Lora", serif;
-  color: #2c2c2c
+  font-family: sans-serif;
+  color: #87749E;
+}
+
+@font-face {
+  font-family: 'goldin';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts/goldin.otf) format('woff2');
 }
 
 a {
     text-decoration: none;
-    color: #267896;
+    color: #6D7C26;
+    font-weight: 600;
 }
 
 .logo {
-    font-family: "Lora Bold", serif;
-    font-weight: bold;
-    font-size: 1.3em;
     flex-grow: 1;
 }
 
 .logo > * {
-    color: #267896 !important;
+    font-family: "goldin", sans-serif;
+    font-weight: bold;
+    font-size: 1.3em;
+    color: #6c5092 !important;
 }
 
 h2 {
-    color: #267896;
+    color: #6c5092;
+    font-family: "goldin", sans-serif;
 }
 
 h3 {
-  color: #267896;
+  color: #6c5092;
+  font-family: "goldin", sans-serif;
 }
 
 h1 {
-  color: #267896;
-  font-size: 5em;
-  font-family: "Lora Bold", serif;
+  color: #6c5092;
+  font-size: 2.5em;
+  font-family: "goldin", sans-serif;
 }
+
 p, li {
   font-size: 1.3em;
   max-width: 50em;
 }
 
 body{
-    background-color: #f7f7f7;
+    background-color: #f9f6fd;
     font-size: 16px;
+    line-height: 1.5;
 }
 
-/*
-iframe {
-    max-width: 50em;
-}
-*/
+
+/* for laptop screens */
+/* @media (min-width: 1024px) {
+  body {
+    margin-left: 10em;
+    margin-right: 10em;
+  }
+} */
 
 @media (max-width: 340px) {
   h1 {

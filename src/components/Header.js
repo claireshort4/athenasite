@@ -10,7 +10,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import { Link } from "gatsby"
 
-const pages = ['Research', 'About', 'Contact'];
+const pages = ['About', 'Mentors', 'Contact'];
 
 
 function Header() {
@@ -30,7 +30,7 @@ function Header() {
       <Toolbar disableGutters>
               <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
                   <Link to="/">
-                      Cadenza Labs
+                    ATHENA 
                   </Link>
               </div>
 
@@ -65,8 +65,8 @@ function Header() {
             >
               {pages.map((page) => (
                 <Link to={"/" + page.toLowerCase()}>
-                    <MenuItem key={page} onClick={handleCloseNavMenu}>
-                      <Typography textAlign="center">{page}</Typography>
+                    <MenuItem key={"item_" + page} onClick={handleCloseNavMenu}>
+                      <Typography key={"typography_" + page} textAlign="center">{page}</Typography>
                     </MenuItem>
                   </Link>
               ))}

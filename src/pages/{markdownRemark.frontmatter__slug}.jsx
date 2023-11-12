@@ -10,15 +10,15 @@ const theme = createTheme({
     MuiToolbar: {
       styleOverrides: {
         root: {
-          backgroundColor: "#f7f7f7 !important",
+          backgroundColor: "#f9f6fd !important",
         },
-
       },
     },
     MuiButton: {
      styleOverrides: {
          text: {
-             color: "#267896 !important",
+             color: "#6c5092 !important",
+             fontWeight: 600
          }
      }
     }
@@ -33,11 +33,11 @@ export default function PageTemplate({
   return (
     <div>
       <ThemeProvider theme={theme}>
-          <Container maxWidth={"xl"}>
+          <Container maxWidth={"lg"}>
               <Header />
           </Container>
       </ThemeProvider>
-      <Container maxWidth={"xl"}>
+      <Container maxWidth={"lg"} style={{marginTop: "5em"}}>
         <h1>{frontmatter.title}</h1>
         <div
           dangerouslySetInnerHTML={{ __html: html }}
