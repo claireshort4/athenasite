@@ -12,6 +12,10 @@ This program is designed to offer mentorship opportunities to technically qualif
 
 The remote mentorship program begins on Jan 15 and commences on March 15. The in-person retreat will occur during the week of Jan 15th, or mid-Feburary depending on availbility of the cohort. We ask that you devote at least 20 hours per week to the program, but working schedules can be discussed with your mentor. 
 
+[Scholar application](https://forms.gle/2gRnKyzr7Ctr9gFw6)
+
+[Mentor and speaker application](https://forms.gle/PWBTmjbHGxriGifz5)
+
 ### Goals
 
 - Increase representation of women in a male dominated field and promote a diversity of ideas in the AI safety research community 
