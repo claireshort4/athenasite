@@ -3,4 +3,4 @@ slug: "/mentors"
 title: "Mentors"
 ---
 
-Comming soon
+Coming soon
