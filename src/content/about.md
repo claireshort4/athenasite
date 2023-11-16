@@ -10,6 +10,8 @@ Athena aims to equip women with the knowledge, skills, and network they need to 
 
 This program is designed to offer mentorship opportunities to technically qualified women who are early in their AI safety research careers or looking to transition into the field by connecting them with experienced mentors, resources to upskill, networking, and a supportive community. 
 
+The remote mentorship program begins on Jan 15 and commences on March 15. The in-person retreat will occur during the week of Jan 15th, or mid-Feburary depending on availbility of the cohort. We ask that you devote at least 20 hours per week to the program, but working schedules can be discussed with your mentor. 
+
 ### Goals
 
 - Increase representation of women in a male dominated field and promote a diversity of ideas in the AI safety research community 
