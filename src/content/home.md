@@ -7,7 +7,3 @@ A 2-month remote mentorship program for women looking to strengthen their resear
 
 [Read more about the program](/about)
 
-[Scholar application](https://forms.gle/2gRnKyzr7Ctr9gFw6)
-
-[Mentor and speaker application](https://forms.gle/PWBTmjbHGxriGifz5)
-
