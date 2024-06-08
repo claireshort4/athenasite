@@ -28,11 +28,11 @@ function Header() {
   return (
     <AppBar position="static" elevation={0}>
       <Toolbar disableGutters>
-              <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
-                  <Link to="/">
-                    ATHENA 
-                  </Link>
-              </div>
+          <div className="logo" style={{display: { xs: 'flex', md: 'none' }}}>
+              <Link to="/">
+                Athena 
+              </Link>
+          </div>
 
           <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
             <IconButton
@@ -46,6 +46,7 @@ function Header() {
               <MenuIcon />
             </IconButton>
             <Menu
+              className='header-menu'
               id="menu-appbar"
               anchorEl={anchorElNav}
               anchorOrigin={{

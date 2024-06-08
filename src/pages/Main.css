@@ -4,16 +4,18 @@
 }
 
 @font-face {
-  font-family: 'goldin';
+  font-family: 'london';
   font-style: normal;
-  font-weight: 200;
+  font-weight: 300;
   font-display: swap;
-  src: url(/fonts/goldin.otf) format('woff2');
+  src: url(/fonts/london.otf) format('woff2');
 }
+
+
 
 a {
     text-decoration: none;
-    color: #6D7C26;
+    color: #B87535 /* #6D7C26;*/;
     font-weight: 600;
 }
 
@@ -22,26 +24,27 @@ a {
 }
 
 .logo > * {
-    font-family: "goldin", sans-serif;
-    font-weight: bold;
-    font-size: 1.3em;
+    font-family: 'london', serif;
+    font-weight: normal;
+    font-size: 3.5em;
+    letter-spacing: 0.05em;
     color: #6c5092 !important;
 }
 
 h2 {
     color: #6c5092;
-    font-family: "goldin", sans-serif;
+    font-family: sans-serif;
 }
 
 h3 {
   color: #6c5092;
-  font-family: "goldin", sans-serif;
+  font-family: sans-serif;
 }
 
 h1 {
   color: #6c5092;
   font-size: 2.5em;
-  font-family: "goldin", sans-serif;
+  font-family: sans-serif;
 }
 
 p, li {
@@ -50,22 +53,88 @@ p, li {
 }
 
 body{
-    background-color: #f9f6fd;
+  font-family: 'Proxima Nova', sans-serif;
+    background-color: #E7E4EC;
     font-size: 16px;
     line-height: 1.5;
 }
 
+.content ul {
+  list-style: none;
+}
 
-/* for laptop screens */
-/* @media (min-width: 1024px) {
-  body {
-    margin-left: 10em;
-    margin-right: 10em;
-  }
-} */
+.content ul li {
+  padding-left: 40px; /* Space for the image */
+  position: relative;
+}
+
+.content ul li:before {
+  content: '';
+  background-image: url('../../static/images/bullet.png'); /* Replace with your image path */
+  background-size: contain;
+  width: 15px; /* Image width */
+  height: 16px; /* Image height */
+  position: absolute;
+  left: 0.6em;
+  top: 0.3em;
+}
+
+.bar {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  max-width: 90%;
+}
+
+.bar-inverse {
+  transform: scaleY(-1); /* Flips the element vertically */
+}
+
+
 
 @media (max-width: 340px) {
   h1 {
       font-size: 3em;
   }
+}
+
+
+.css-120r8wl-MuiPaper-root-MuiAppBar-root {
+  background-color: #E7E4EC;
+}
+
+.abstractImage {
+  z-index: -1;
+  display: block; /* Remove the quotes */
+  width: 100%; /* Remove the quotes */
+  mask-image: linear-gradient(to bottom, black 70%, transparent 90%);
+  -webkit-mask-image: linear-gradient(to bottom, black 70%, transparent 90%);
+}
+
+@media screen and (min-width: 1024px) { /* This is typically the breakpoint for desktop */
+  .abstractImage {
+      height: 90vh;
+  }
+}
+@media screen and (max-width: 1024px) { /* This is typically the breakpoint for desktop */
+  .abstractImage {
+      height: 45vh;
+      margin-bottom: 5em;
+  }
+
+}
+
+.quotation-marks {
+  font-family: 'Proxima Nova', sans-serif;
+  font-size: 25pt;
+  color: #6c5092;
+  margin-right: 0.20em;
+}
+
+.quote {
+  font-family: 'Proxima Nova', sans-serif;
+  font-size: 1.5em;
+  font-style: italic;
+  color: #6c5092;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
