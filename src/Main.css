@@ -70,7 +70,7 @@ body{
 
 .content ul li:before {
   content: '';
-  background-image: url('../../static/images/bullet.png'); /* Replace with your image path */
+  background-image: url('../static/images/bullet.png'); /* Replace with your image path */
   background-size: contain;
   width: 15px; /* Image width */
   height: 16px; /* Image height */
@@ -138,3 +138,13 @@ body{
   margin-top: 1em;
   margin-bottom: 1em;
 }
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  background-color: transparent !important;
+  /* box-shadow: none; */
+}
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root * {
+  font-family: Proxima Nova, sans-serif !important;
+}
+

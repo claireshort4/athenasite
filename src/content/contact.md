@@ -5,10 +5,9 @@ title: "Contact"
 
 Questions? Please contact <!-- fhetydagzzzgjds --> claire@<!-- sdfjsdhfkjypcs -->researchathena<!-- asjoxp -->.org
 
-We are happy to receive emails from possible collaborators, mentees, mentors, and funders; or questions about our research.
+We are currently looking for research collaborators and funders. If you have any interest in collaborating or have questions, please email Claire.
 
-## Program Founder
-### Claire Short
+## Claire Short - Program Founder 
 
 [LinkedIn](https://www.linkedin.com/in/claireshort4)
 

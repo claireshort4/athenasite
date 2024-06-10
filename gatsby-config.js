@@ -47,6 +47,14 @@ module.exports = {
               iframeId: true, //Optional: if true, iframe's id will be set to what is provided after 'video:' (YouTube IFrame player API requires iframe id)
             },
           },
+          `gatsby-plugin-mdx`,
+          {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+              name: `pages`,
+              path: `./src/content`,
+            },
+          },
           {
             resolve: "gatsby-plugin-react-svg",
             options: {
