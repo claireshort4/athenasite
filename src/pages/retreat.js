@@ -30,10 +30,10 @@ const RetreatPage = () => {
                 style={{ width: '100%', height: 'auto' }}
             >
                 <SwiperSlide>
-                    <StaticImage src="../../static/images/retreat/r1.jpg" alt="Retreat Image 1" layout="fullWidth" />
+                    <StaticImage src="../../static/images/retreat/r2.jpg" alt="Retreat Image 2" layout="fullWidth" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <StaticImage src="../../static/images/retreat/r2.jpg" alt="Retreat Image 2" layout="fullWidth" />
+                    <StaticImage src="../../static/images/retreat/r1.jpg" alt="Retreat Image 1" layout="fullWidth" />
                 </SwiperSlide>
                 <SwiperSlide>
                     <StaticImage src="../../static/images/retreat/r3.jpg" alt="Retreat Image 3" layout="fullWidth" />
