@@ -115,10 +115,6 @@ const fellows = [
     {
         name: "Monika Jotautaite",
         image: "/images/fellows/monika.png",
-    },
-    {
-        name: "Rebecca Hawkins",
-        image: "/images/fellows/rebecca.png",
     }
 ];
 

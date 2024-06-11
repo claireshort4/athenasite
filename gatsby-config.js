@@ -26,13 +26,13 @@ module.exports = {
     },
     __key: "pages"
   },
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      name: `content`,
-      path: `${__dirname}/src/content`,
-    },
-  },
+  // {
+  //   resolve: `gatsby-source-filesystem`,
+  //   options: {
+  //     name: `content`,
+  //     path: `${__dirname}/src/content`,
+  //   },
+  // },
   {
       resolve: "gatsby-transformer-remark",
       options: {
@@ -52,7 +52,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
               name: `pages`,
-              path: `./src/content`,
+              path: `./src/pages/blog`,
             },
           },
           {

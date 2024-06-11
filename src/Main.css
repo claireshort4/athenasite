@@ -3,6 +3,12 @@
   color: #87749E;
 }
 
+:root {
+  --swiper-theme-color: #6c5090; /* This sets the theme color */
+  --swiper-pagination-color: #6c5090; /* This specifically targets the pagination color */
+}
+
+
 @font-face {
   font-family: 'london';
   font-style: normal;
@@ -52,6 +58,10 @@ p, li {
   max-width: 50em;
 }
 
+li {
+  margin-left: -1em;
+}
+
 body{
   font-family: 'Proxima Nova', sans-serif;
     background-color: #E7E4EC;
@@ -75,8 +85,8 @@ body{
   width: 15px; /* Image width */
   height: 16px; /* Image height */
   position: absolute;
-  left: 0.6em;
-  top: 0.3em;
+  left: 0.7em;
+  top: 0.4em;
 }
 
 .bar {
