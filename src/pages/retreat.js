@@ -38,6 +38,12 @@ const RetreatPage = () => {
                 <SwiperSlide>
                     <StaticImage src="../../static/images/retreat/r3.jpg" alt="Retreat Image 3" layout="fullWidth" />
                 </SwiperSlide>
+                <SwiperSlide>
+                    <StaticImage src="../../static/images/retreat/r4.jpg" alt="Retreat Image 3" layout="fullWidth" />
+                </SwiperSlide>
+                <SwiperSlide>
+                    <StaticImage src="../../static/images/retreat/r5.jpg" alt="Retreat Image 3" layout="fullWidth" />
+                </SwiperSlide>
         </Swiper>
 
         <h2>Retreat Seminar</h2>
