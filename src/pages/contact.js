@@ -20,13 +20,9 @@ const ContactPage = ({ data }) => {
     <Layout>
       <h1>Contact</h1>
       <p>
-        Questions? Please contact{' '}
-        <a href={`mailto:${email}@${domain}`}>{`${email}@${domain}`}</a>
-      </p>
-      <p>
         We are currently looking for research collaborators and funders. If you
         have any interest in collaborating or have questions, please email
-        Claire.
+        Claire <a href={`mailto:${email}@${domain}`}>{`${email}@${domain}`}</a>
       </p>
       <h2>Claire Short - Program Founder</h2>
       <p>
