@@ -123,8 +123,8 @@ const fellows = [
 const Participants = () => {
     return (
         <Layout>
-            <h1>Partcipants</h1>
-            <h2>Mentors</h2>
+            <h1>Past Participants</h1>
+            <h2>2024 Mentors</h2>
             <Grid container spacing={2}>
                 {participants.map((participant, index) => (
                     <Grid item xs={12} sm={6} md={4} key={index}>
@@ -132,7 +132,7 @@ const Participants = () => {
                     </Grid>
                 ))}
             </Grid>
-            <h2>Fellows</h2>
+            <h2>2024 Fellows</h2>
             <Grid container spacing={2}>
                 {fellows.map((fellow, index) => (
                     <Grid item xs={12} sm={6} md={4} key={index}>
