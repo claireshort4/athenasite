@@ -36,10 +36,10 @@ const ContactPage = ({ data }) => {
         involving impulsive decision-making, brain simulation software, and EEG
         meditation studies, as well as work in data science, operations at the
         Atlas Fellowship, Neurotech Fellow at Foresight, and participated as a
-        research scholar at SERI MATS - an AI alignment research fellowship.
-        Beyond research she enjoys the connection between machines and the human
-        mind in art, using EEG data and hand drawn diagrams as a tool and medium
-        to uncover human emotions in a new light.
+        two-time research scholar at MATS - an AI alignment research fellowship.
+        Currently she is a Research Manager at MATS and research lead for NeuroAI 
+        projects started at AI Safety Camp.  
+        Beyond research she enjoys art, film, techno, and swing dance.
       </p>
     </Layout>
   );
