@@ -9,7 +9,7 @@ export default function HomePage() {
         <Layout>
             <h1>AI Alignment Mentorship Program for Women</h1>
             <p>
-                Athena is a 2-month remote mentorship program for women looking to strengthen their research skills
+                Athena is a 10 week remote mentorship program for women looking to strengthen their research skills
                 and network in technical <a href="https://en.wikipedia.org/wiki/AI_alignment">AI alignment</a> research.
                 Our goals are to:
             </p>
@@ -20,8 +20,8 @@ export default function HomePage() {
                 <li>To foster networking and working relationships within the field, leading to potential opportunities for internships, research collaborations, and future employment/grant opportunities</li>
             </ul>
             <p>
-                Our program is a 1-week in-person retreat in Oxford, UK followed by a 2-month remote mentorship by established researchers in the field,
-                with networking and weekly research talks.
+                Our program includes a 1-week in-person retreat during the 10 week remote mentorship by established researchers in the field,
+                with networking opportunities and weekly research talks.
             </p>
             
             <img src="/images/bar.svg" alt="Decorative bar" className="bar bar-inverse" />
@@ -63,7 +63,7 @@ export default function HomePage() {
                 to transition into the field by connecting them with experienced mentors, resources to upskill, networking, and a supportive community.
             </p>
             <p>
-                The remote mentorship program begins on Feb 1 and ends April 3. The in-person retreat will occur Feb 26 - March 1.
+                The remote mentorship program begins on October 14 and ends December 22. The in-person retreat will occur in November.
                 We ask that you devote at least 20 hours per week to the program, but working schedules can be discussed with your mentor.
             </p>
         </Layout>
