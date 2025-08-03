@@ -25,8 +25,7 @@ export default function HomePage() {
             </p>
             
              <p>
-                <a href="https://lnkd.in/gMF-S9Np">Apply Here</a>
-                <a href="https://lnkd.in/gMF-S9Np">Mentor/Speaker Application</a>
+                <a href="https://docs.google.com/document/d/1OCihpmfV5eJyt1AbzD7qQwSJEeqLAsPhENohVRFVVAU/edit?usp=sharing">Application Information</a>
             </p>
 
             <img src="/images/bar.svg" alt="Decorative bar" className="bar bar-inverse" />
