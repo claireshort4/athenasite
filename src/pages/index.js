@@ -24,6 +24,11 @@ export default function HomePage() {
                 with networking opportunities and weekly research talks.
             </p>
             
+             <p>
+                <a href="https://lnkd.in/gMF-S9Np">Apply Here</a>
+                <a href="https://lnkd.in/gMF-S9Np">Mentor Application</a>
+            </p>
+
             <img src="/images/bar.svg" alt="Decorative bar" className="bar bar-inverse" />
             <Swiper
                 spaceBetween={30}
